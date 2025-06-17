@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="left">Hi !</h1>
 
-<!--
-**DivyaAnigol/DivyaAnigol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Divya. I'm currently working as a Project Engineer at Society of Innovation and Development, Indian Institute of Science. I'm a mechanical engineering graduate and passionate about thermal sciences.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<br clear="both">
+
+<h2 align="left">I work with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+</div>
+
+###

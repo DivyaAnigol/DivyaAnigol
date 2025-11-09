@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Divya. I'm currently working as a Project Engineer at Society of Innovation and Development, Indian Institute of Science. I'm a mechanical engineering graduate and passionate about thermal sciences.</p>
+<p align="left">My name is Divya. I'm currently working as a Process Engineer at Society of Innovation and Development, Indian Institute of Science. I'm a mechanical engineering graduate and passionate about thermal sciences.</p>
 
 ###
 

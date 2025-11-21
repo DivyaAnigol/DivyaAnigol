@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Divya. I'm currently working as a Process Engineer at Society of Innovation and Development, Indian Institute of Science. I'm a mechanical engineering graduate and passionate about thermal sciences.</p>
+<p align="left">I’m a Process Engineer passionate about bridging the gap between research and practical engineering applications. My work focuses on additive manufacturing, process optimization, and thermal analysis, with hands-on experience in both Selective Laser Sintering (SLS) and plasma torch–based metal powder production. I enjoy understanding how materials, design, and energy interact — and using that knowledge to make processes more efficient, precise, and scalable.
+
+At the Indian Institute of Science (IISc), I’ve contributed to the development of two generations of SLS 3D printing machines. My work includes process design, system calibration, and parameter optimization to achieve consistent, high-quality prints. From analysing roller speeds, powder flow, and infrared heat distribution to performing optical alignment, focus correction, and Z-axis calibration, I’ve worked to refine every detail that impacts print performance. One of my key milestones was achieving the first successful multilayer (>100) print and establishing stable thermal profiles through heat flux testing and process repeatability studies.</p>
 
 ###
 

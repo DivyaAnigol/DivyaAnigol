@@ -19,7 +19,9 @@ At the Indian Institute of Science (IISc), I’ve contributed to the development
 </div>
 
 
-
+<div align="left">
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/92f1b191-2684-418c-878e-30b33d20c984" />
+</div>
 
 
 ###

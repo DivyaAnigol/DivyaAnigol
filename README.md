@@ -18,9 +18,7 @@ At the Indian Institute of Science (IISc), I’ve contributed to the development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
 
-<div align="center">
-  <img width="40" height="40" alt="ansys-logo" src="https://github.com/user-attachments/assets/92f1b191-2684-418c-878e-30b33d20c984" />
-</div>
+
 
 
 
